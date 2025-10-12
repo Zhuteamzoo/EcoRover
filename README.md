@@ -1,6 +1,6 @@
-# 🛻 Trash Rover 🤖
+#  Trash Rover 
 
-## 📌 Overview
+## Overview
 **Trash Rover** is a 4-wheel drive autonomous robot designed to collect trash that piles up after the snow melts in Canada.  
 The goal is to make garbage collection easier, cleaner, and more efficient through robotics and automation.
 
@@ -17,7 +17,7 @@ This project is a personal build that combines **Arduino**, **Raspberry Pi**, an
 
 ---
 
-## 🧰 Components & Tech Stack
+## Components & Tech Stack
 **Hardware:**
 - Raspberry Pi 5 (8GB)
 - Arduino Mega
