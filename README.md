@@ -21,7 +21,7 @@ This project is a personal build that combines **Arduino**, **Raspberry Pi**, an
 **Hardware:**
 - Raspberry Pi 5 (8GB)
 - Arduino Mega
-- 4x Servo motors
+- 4x Dc motors
 - Power supply / battery pack
 - L-brackets, corner braces, and chassis parts
 
