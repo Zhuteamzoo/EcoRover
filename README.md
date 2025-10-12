@@ -31,6 +31,8 @@ This project is a personal build that combines **Arduino**, **Raspberry Pi**, an
 - OpenCV (for object detection)
 - Linux (Raspberry Pi OS)
 
+---
+
 ##  How the EcoRover Works
 
 The **EcoRover** is designed to collect trash using a front-mounted ramp system inspired by medieval drawbridges.  
