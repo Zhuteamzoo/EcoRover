@@ -18,5 +18,5 @@ These motors are budget TT-style gearmotors with a nominal speed of **200 RPM at
 - **Wheel circumference:** ~204 mm
 
 ---
-The *reson* I bought this one is since it comes with a L298N with it already removing the hassle of trying to find one, also it includes tires and is relatively cheap for all 4 of them.
+The **reson** I bought this one is since it comes with a L298N with it already removing the hassle of trying to find one, also it includes tires and is relatively cheap for all 4 of them.
 
