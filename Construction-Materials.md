@@ -1,7 +1,7 @@
 # 🧱Rover Frame & Construction Materials
 
 ##  Wall Material
-The walls of the EcoRover will be made from **1.5 mm aluminum sheets**, chosen for their balance of **lightweight** structure and **durability**. The total surface area required for the walls is **2,544 cm²**.
+The walls of the EcoRover will be made from **1.5 mm aluminum sheets**, chosen for their balance of **lightweight** structure and **durability**. The total surface area required for the walls is **2,544 cm²**(more will be needed for the ramp).
 
 ---
 
