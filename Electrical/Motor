@@ -1,0 +1,22 @@
+# TT Gearbox Motor (200 RPM) + 65 mm Wheel
+Bought at: https://www.amazon.ca/Sets-Gearbox-Motor-200RPM-Wheel/dp/B0BLHTMSSP/ref=sr_1_1_sspa?crid=2M7F2KTBCRWHF&dib=eyJ2IjoiMSJ9.PbukzyjpS0C9AFKC0iNiGYUVg3iHoIW5uLISKQxwPWXczuE6KlwoGCfEU-bhHiBLZKq9LNFL5wLGpWr2qNk70fD0zMlc9AaN5bC4Z_pr3ySM_1mA_3CjNWLV_fUoCv4R46ZhZyIVZBaXUA0OuLK5NtXB0RFg2wVrdTMIFe8PPyJwIWu9_3pFwuPRxy369y-88bpM9AROL4EAlMEHPnfPj49KBZoDp6K3vgrKErCl3aCZJTFLaPt2tdH4i6jUZYSSqKAm_b9ygGGm3lZ9wuRAU15l9IKHtSLA2TopJg-scC4.CwwZFNBCaL4EPs1iZ7WSqDgbzbw8wBMl0R0m6dZf4_E&dib_tag=se&keywords=tt+gear+motor&qid=1760299542&sprefix=tt+gear+moto%2Caps%2C126&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+This folder documents the DC motor + wheel kit used for the rover project (30 × 32 × 10 cm aluminum frame).  
+These motors are budget TT-style gearmotors with a nominal speed of **200 RPM at 6 V** and are well-suited for lightweight differential-drive rovers.
+
+---
+
+## 🧾 Basic Specifications
+- **Motor type:** Brushed DC motor with plastic gearbox  
+- **Nominal voltage:** 3 V – 6 V  
+- **No-load speed:** ~200 RPM @ 6 V  
+- **Stall current:** 0.7 A – 1.6 A (varies by unit)  
+- **Operating current:** 100 mA – 400 mA typical  
+- **Gear ratio:** ~1:48 (typical)  
+- **Wheel diameter:** 65 mm  
+- **Wheel radius:** 32.5 mm  
+- **Wheel circumference:** ~204 mm
+
+---
+The *reson* I bought this one is since it comes with a L298N with it already removing the hassle of trying to find one, also it includes tires and is relatively cheap for all 4 of them.
+
