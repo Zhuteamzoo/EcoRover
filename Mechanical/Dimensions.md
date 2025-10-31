@@ -55,4 +55,4 @@ This document provides the detailed dimensions and structural layout of the Tras
 - The garbage collection area is **open at the top** for easy maintenance.  
 - **L-brackets or corner braces** will attach vertical walls to the base.  
 - **Wiring channels** run along both sides to keep the build **clean and organized**.
-- **Estimated Weight:** I estimate that it will be around **5kg**
+- **Estimated Weight:** I estimate that it will be around **2.5kg**
