@@ -1,25 +1,58 @@
-# Dimensions
+# Trash Rover – Dimensions Overview
 
-EcoRover is a compact autonomous robot designed to collect small trash items efficiently in indoor and outdoor environments. This document summarizes the physical dimensions and design considerations.
+This document provides the detailed dimensions and structural layout of the Trash Rover, including the base, garbage collection area, and space allocated for components and wiring.
 
-## Physical Dimensions
+---
 
-| Parameter           | Value           |
-|--------------------|----------------|
-| Length              | 30 cm          |
-| Width               | 32 cm          |
-| Height              | 10 cm          |
-| Approximate Weight  | ~5 kg          |
+## Overall Dimensions
 
-## Design Considerations
+| Parameter | Value |
+|-----------|-------|
+| Width     | 30 cm |
+| Length    | 32 cm |
+| Height    | 10 cm |
 
-- **Compact footprint:** 30 × 32 cm allows easy navigation through narrow spaces.
-- **Low height (10 cm):** Improves stability and lowers the center of gravity.
-- **Weight (~5 kg):** Includes frame, motors, electronics, and battery, providing a balance between mobility and payload capacity.
-- **Wheelbase and wheel size:** Optimized for torque and speed to carry additional load, such as collected trash.
-- **Modular design:** Allows for future upgrades, including larger bins, improved mobility, or sensor additions.
+- The rover has a **flat steel sheet base**, serving as the main support structure for the garbage collection area and electronic components.
+
+---
+
+## Garbage Collection Area
+
+| Parameter | Value |
+|-----------|-------|
+| Width     | 20 cm |
+| Length    | 28 cm |
+
+- Located **in the center of the chassis**.  
+- Serves as the main compartment where trash will be collected using the ramp mechanism.
+
+---
+
+## Component & Wiring Space
+
+| Location          | Space Allocated |
+|------------------|----------------|
+| Sides (left/right) | 5 cm each (10 cm total) |
+| Rear             | 2 cm |
+
+- Side spaces are reserved for **batteries, electronics, and wiring**.  
+- Rear space allows **routing wires** from one side to the other without interfering with the collection area.
+
+---
+
+## Base Plate
+
+| Feature   | Specification |
+|-----------|----------------|
+| Material  | Steel sheet    |
+| Dimensions | 30 × 32 cm (matches overall chassis) |
+| Purpose   | Provides a **rigid and durable foundation** to securely mount all components |
+
+---
 
 ## Notes
 
-- Dimensions are external and approximate.
-- Design choices were made to optimize stability, maneuverability, and load-carrying capacity.
+- The garbage collection area is **open at the top** for easy maintenance.  
+- **L-brackets or corner braces** will attach vertical walls to the base.  
+- **Wiring channels** run along both sides to keep the build **clean and organized**.
+- **Estimated Weight:** I estimate that it will be around **5kg**
